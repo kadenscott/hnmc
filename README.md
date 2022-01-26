@@ -41,9 +41,9 @@ HNMC has a few admin commands to interact with the plugin.
 
 - `/hn` - base command
 - `/hn get` - give yourself the HN book
-- `/hn give <player` - give a player the HN book
+- `/hn give <player>` - give a player the HN book
 - `/hn open` - opens the HN menu for yourself
-- `/hn open <player` - opens the HN menu for another player
+- `/hn open <player>` - opens the HN menu for another player
 
 # Permissions
 
